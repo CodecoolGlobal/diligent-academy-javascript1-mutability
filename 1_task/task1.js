@@ -2,6 +2,9 @@
  * Your task is to ensure that the functions here do not 
  * change the input object or array. Keep the original business logic.
  * 
+ * Do not call the functions in this file for testing, but
+ * use the playground.js.
+ * 
  * Some resources to get inspired:
  * - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
  * - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
