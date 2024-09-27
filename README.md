@@ -1,1 +1,1 @@
-# diligent-academy-javascript1-mutability
+# Immutability and Mutability in JavaScript
